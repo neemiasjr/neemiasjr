@@ -37,22 +37,6 @@ Atualmente trabalho com **desenvolvimento de APIs RESTful, microsserviços**, in
 
 ---
 
-## 🛠 Projetos Relevantes
-
-### 🔹 Integração com NFE.io
-- Integração de sistemas legados com emissão de notas fiscais eletrônicas via API.
-- Stack: Laravel 11, PHP 8.3, ReactJS, Tailwind, AWS, MySQL
-
-### 🔹 Desenvolvimento Full Stack
-- Projetos com Laravel + Vue/React em arquitetura de microsserviços.
-- Integrações com Keycloak, RabbitMQ, NestJS e OpenShift.
-
-### 🔹 Sistemas Financeiros e CNAB
-- Desenvolvimento de processos bancários CNAB 240 e Layout 150 (FEBRABAN).
-- Stack: PHP puro, MySQL, MongoDB, Docker, OpenCNAB.
-
----
-
 ## 🎓 Formação Acadêmica
 
 - **Ciência da Computação** – Universidade Católica de Brasília (2001 – 2005)  
