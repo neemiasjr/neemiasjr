@@ -1,6 +1,6 @@
 # 👨‍💻 Neemias Chagas de Souza Jr.
 
-🎯 **Desenvolvedor Back-end Java | Full Stack | Laravel | Spring Boot**  
+🎯 **Desenvolvedor Back-end Laravel | Java | Full Stack | Spring Boot**  
 📍 Uberlândia, MG – Brasil | 🌐 Remoto | 📧 neemias.jr@gmail.com  
 🔗 [GitHub](https://github.com/neemiasjr) | [GitLab](https://gitlab.com/neemiasjr)
 
