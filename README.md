@@ -1,7 +1,7 @@
 # 👨‍💻 Neemias Jr.
 
 🎯 **Desenvolvedor Back-end Laravel | Java | Full Stack | Spring Boot**  
-📍 Uberlândia, MG – Brasil | 🌐 Remoto | 📧 neemias.jr@gmail.com  
+📍 Brasilia, DF – Brasil | 🌐 Remoto | 📧 neemias.jr@gmail.com  
 🔗 [GitHub](https://github.com/neemiasjr) | [GitLab](https://gitlab.com/neemiasjr)
 
 ---
