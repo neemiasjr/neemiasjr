@@ -46,6 +46,7 @@ Atualmente trabalho com **desenvolvimento de APIs RESTful, microsserviços**, in
 
 ## 📚 Cursos e Certificações
 
+- Hackers do Bem (2026) - Especialização Blue Team
 - GOHACKING – Secure Coding and DevSecOps (2025)
 - AWS Cloud Practitioner
 - RedHat RHCSA | Ansible | DO410
